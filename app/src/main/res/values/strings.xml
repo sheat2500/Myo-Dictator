@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">dictator</string>
+    <string name="pose_fist">fist</string>
+    <string name="pose_wavein">wavein</string>
+    <string name="pose_waveout">waveout</string>
+    <string name="arm_left">arm_left</string>
+    <string name="arm_right">arm right</string>
+    <string name="hello_world">hello world</string>
+    <string name="pose_fingersspread">fingersspred</string>
 </resources>
